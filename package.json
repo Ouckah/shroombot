@@ -1,0 +1,16 @@
+{
+  "name": "twitchchatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.5.0",
+    "twitch": "^4.0.8",
+    "twitch-chat-client": "^4.0.8"
+  }
+}
